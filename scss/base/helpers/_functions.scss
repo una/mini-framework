@@ -1,0 +1,9 @@
+//general colors
+@function color($color) {
+  @return map-get($colors, $color);
+};
+
+//theme colors
+@function theme($color) {
+  @return map-get($colors, map-get($theme-colors, $color));
+}

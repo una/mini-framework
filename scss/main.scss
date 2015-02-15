@@ -1,6 +1,6 @@
 // Base styles -- these output no code
 @import 'base/reset';
-@import 'base/vars/color';
+@import 'base/vars/colors';
 @import 'base/vars/grid';
 @import 'base/vars/type';
 @import 'base/helpers/mixins';
@@ -9,7 +9,7 @@
 
 // Layout elements affecting the page
 @import 'theme/grid';
-@import 'theme/color';
+@import 'theme/colors';
 @import 'theme/type';
 
 // Regions of your page -- repeated & modular
