@@ -1,4 +1,6 @@
-Starter Environment
+This is based on my Gulp [Starter Environment](https://github.com/una/gulp-starter-env), with a few additions such as a nice color library and basic styling for elements.
+
+Gulp [Starter Environment](https://github.com/una/gulp-starter-env)
 ---
 
 What's set up here:

@@ -1,6 +1,12 @@
 {
-  "name": "gulp-starter-env",
+  "name": "mini-framework",
   "version": "0.1.0",
+  "description": "A small, performant, and opinionated environment/framework to quickly spin up prototypes",
+  "author": "Una Kravets",
+  "repository" :
+    { "type" : "git"
+    , "url" : "http://github.com/una/mini-framework"
+    }
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.0.0-rc4",

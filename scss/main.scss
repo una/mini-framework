@@ -1,1 +1,5 @@
-@import 'example-directory/import-me';
+@import 'base/reset';
+@import 'base/vars';
+@import 'base/theme';
+@import 'base/helpers/mixins';
+@import 'base/helpers/functions';
